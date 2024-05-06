@@ -24,5 +24,6 @@ to set the transparency of the top bar.
 
 #### Summary
 > #### Properties
+[SelectionImageObject](https://create.roblox.com/docs/reference/engine/classes/CoreGui#SelectionImageObject) : GuiObject
 
-[SelectionImageObject](https://create.roblox.com/docs/reference/engine/classes/CoreGui#SelectionImageObject)
+- [ ] **Read Parallel**: This property is read-only and is safe to read in unsynchronized threads. Attempting to write to it causes an error.
