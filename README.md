@@ -92,3 +92,10 @@ custom chats interfaces.
 - [ ] **Not Accessible Security**: Attempting to access this member in scripts causes an error. You might be able to access this member from Roblox Studio's property window.
 
 Determines whether to fully enable [`TextChatService`](https://create.roblox.com/docs/reference/engine/classes/TextChatService) or revert to the legacy chat system.
+
+[CreateDefaultCommands](https://create.roblox.com/docs/reference/engine/classes/TextChatService#CreateDefaultCommands) : bool
+
+- [ ] **Read Parallel**: This property is read-only and is safe to read in unsynchronized threads. Attempting to write to it causes an error.
+- [ ] **Plugin Security**: This member is accessible only through the command bar and plugins only. Attempting to access this member from scripts causes an error.
+
+Determines whether [`TextChatService`](https://create.roblox.com/docs/reference/engine/classes/TextChatService) should create default [`TextChatCommands`](https://create.roblox.com/docs/reference/engine/classes/TextChatCommand)
