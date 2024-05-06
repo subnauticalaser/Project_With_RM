@@ -25,4 +25,4 @@ to set the transparency of the top bar.
 #### Summary
 > #### Properties
 
-SelectionImageObject
+[SelectionImageObject](https://create.roblox.com/docs/reference/engine/classes/CoreGui#SelectionImageObject)
