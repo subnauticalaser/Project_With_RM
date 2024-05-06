@@ -52,3 +52,8 @@ Returns a list of all [`GuiObject`](https://create.roblox.com/docs/reference/eng
 
 [ToggleRecording] : null
 - [ ] **Roblox Script Security**: This member is accessible only in CoreScripts.
+
+> #### Events
+
+[UserGuiRenderingChanged: Event] : (enabled : bool, guiAdornee : Instance, faceId : NormalId, horizntalCurvature : float)
+- [ ] **Roblox Script Security**: This member is accessible only in CoreScripts.
