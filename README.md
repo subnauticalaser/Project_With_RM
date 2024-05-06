@@ -21,3 +21,5 @@ and disable most elements of the
 CoreGui. You can also use
 [`PlayerGui:SetTopbarTransparency()`](https://create.roblox.com/docs/reference/engine/classes/PlayerGui#SetTopbarTransparency)
 to set the transparency of the top bar.
+
+#### Summary
