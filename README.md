@@ -34,3 +34,6 @@ to set the transparency of the top bar.
 - [ ] **Read Only**: This member is read only. Attempting to write to this member causes an error.
 - [ ] **Not Replicated**: Roblox does not replicate this member across its server-client boundary.
 - [ ] **Read Parallel**: This property is read-only and is safe to read in unsynchronized threads. Attempting to write to it causes an error.
+
+> #### Methods
+[GetGuiObjectsAtPosition](https://create.roblox.com/docs/reference/engine/classes/BasePlayerGui#GetGuiObjectsAtPosition) <span style="backgroundColor: rgb(255, 255, 255)">(x : number, y : number) : Objects</span>
