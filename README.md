@@ -23,3 +23,5 @@ CoreGui. You can also use
 to set the transparency of the top bar.
 
 #### Summary
+> Properties
+SelectionImageObject
