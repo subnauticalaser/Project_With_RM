@@ -76,3 +76,13 @@ chat, including managing channels,
 decorating messages, filtering text,
 creating commands, and develeoping
 custom chats interfaces.
+
+#### Summary
+> #### Properties
+
+[ChatTranslationEnabled](https://create.roblox.com/docs/reference/engine/classes/TextChatService#ChatTranslationEnabled) : bool
+
+- [ ] **Not Replicated**: Roblox does not replicate this member across its server-client boundary.
+- [ ] **Read Parallel**: This property is read-only and is safe to read in unsynchronized threads. Attempting to write to it causes an error.
+- [ ] **Roblox Script Security**: This member is accessible only in CoreScripts.
+
