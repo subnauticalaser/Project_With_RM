@@ -86,3 +86,9 @@ custom chats interfaces.
 - [ ] **Read Parallel**: This property is read-only and is safe to read in unsynchronized threads. Attempting to write to it causes an error.
 - [ ] **Roblox Script Security**: This member is accessible only in CoreScripts.
 
+[ChatVersion](https://create.roblox.com/docs/reference/engine/classes/TextChatService#ChatVersion) : Enum.ChatVersion
+
+- [ ] **Read Parallel**: This property is read-only and is safe to read in unsynchronized threads. Attempting to write to it causes an error.
+- [ ] **Not Accessible Security**: Attempting to access this member in scripts causes an error. You might be able to access this member from Roblox Studio's property window.
+
+Determines whether to fully enable [TextChatService](https://create.roblox.com/docs/reference/engine/classes/TextChatService) or revert to the legacy chat system.
