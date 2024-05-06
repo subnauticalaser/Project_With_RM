@@ -2,4 +2,5 @@
 
 ### CoreGui
 
-- [ ] Not Creatable \n AX
+- [ ] Not Creatable | You can't create an instance of this class with the Instance.new constructor.
+- [ ] Service | 
