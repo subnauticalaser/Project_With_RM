@@ -64,3 +64,15 @@ Returns a list of all [`GuiObject`](https://create.roblox.com/docs/reference/eng
 - [ ] **Not Creatable**: You can't create an instance of this class with the **Instance.new** constructor.
 - [ ] **Service**: This class is a top-level singleton. Retrive an instance of this class with the **GetService** function.
 - [ ] **Not Replicated**: Roblox does not replicate this member across its server-client boundary.
+
+
+### TextChatService
+
+- [ ] **Not Creatable**: You can't create an instance of this class with the **Instance.new** constructor.
+- [ ] **Service**: This class is a top-level singleton. Retrive an instance of this class with the **GetService** function.
+
+A service handling in-experience text
+chat, including managing channels,
+decorating messages, filtering text,
+creating commands, and develeoping
+custom chats interfaces.
