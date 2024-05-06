@@ -98,4 +98,12 @@ Determines whether to fully enable [`TextChatService`](https://create.roblox.com
 - [ ] **Read Parallel**: This property is read-only and is safe to read in unsynchronized threads. Attempting to write to it causes an error.
 - [ ] **Plugin Security**: This member is accessible only through the command bar and plugins only. Attempting to access this member from scripts causes an error.
 
-Determines whether [`TextChatService`](https://create.roblox.com/docs/reference/engine/classes/TextChatService) should create default [`TextChatCommands`](https://create.roblox.com/docs/reference/engine/classes/TextChatCommand)
+Determines whether [`TextChatService`](https://create.roblox.com/docs/reference/engine/classes/TextChatService) should create default [`TextChatCommands`](https://create.roblox.com/docs/reference/engine/classes/TextChatCommand).
+
+
+[CreateDefaultTextChannels](https://create.roblox.com/docs/reference/engine/classes/TextChatService#CreateDefaultTextChannels) : bool
+
+- [ ] **Read Parallel**: This property is read-only and is safe to read in unsynchronized threads. Attempting to write to it causes an error.
+- [ ] **Plugin Security**: This member is accessible only through the command bar and plugins only. Attempting to access this member from scripts causes an error.
+
+Determines whether [`TextChatService`](https://create.roblox.com/docs/reference/engine/classes/TextChatService) should create default [`TextChatChannels`](https://create.roblox.com/docs/reference/engine/classes/TextChatChannel).
