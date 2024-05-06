@@ -35,5 +35,11 @@ to set the transparency of the top bar.
 - [ ] **Not Replicated**: Roblox does not replicate this member across its server-client boundary.
 - [ ] **Read Parallel**: This property is read-only and is safe to read in unsynchronized threads. Attempting to write to it causes an error.
 
+The current version of the CoreGui.
+Everytime the CoreGui is majorly
+changed, this number is increased.
+
 > #### Methods
 [GetGuiObjectsAtPosition](https://create.roblox.com/docs/reference/engine/classes/BasePlayerGui#GetGuiObjectsAtPosition) (x : number, y : number) : Objects
+
+Returns a list of all [`GuiObject`](https://create.roblox.com/docs/reference/engine/classes/GuiObject) instances occupying the given point on the screen.
