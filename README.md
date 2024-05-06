@@ -46,3 +46,9 @@ Returns a list of all [`GuiObject`](https://create.roblox.com/docs/reference/eng
 
 [SetUserGuiRendering] (enabled : bool, guiAdornee : Instance, faceId : NormalId, horizntalCurvature : float) : null
 - [ ] **Roblox Script Security**: This member is accessible only in CoreScripts.
+
+[TakeScreenshot] : null
+- [ ] **Roblox Script Security**: This member is accessible only in CoreScripts.
+
+[ToggleRecording] : null
+- [ ] **Roblox Script Security**: This member is accessible only in CoreScripts.
