@@ -14,4 +14,6 @@ core user interface found in every game
 [`Plugins`](https://create.roblox.com/docs/reference/engine/classes/Plugin) in Roblox Studio.
 
 
-You can use [`StarterGui:SetCoreGuiEnabled`](https://create.roblox.com/docs/reference/engine/classes/StarterGui#SetCoreGuiEnabled)
+You can use [`StarterGui:SetCoreGuiEnabled`](https://create.roblox.com/docs/reference/engine/classes/StarterGui#SetCoreGuiEnabled) and 
+[`StarterGui:GetCoreGuiEnabled`](https://create.roblox.com/docs/reference/engine/classes/StarterGui#GetCoreGuiEnabled)
+methods in a [`LocalScript`](https://create.roblox.com/docs/reference/engine/classes/LocalScript)
