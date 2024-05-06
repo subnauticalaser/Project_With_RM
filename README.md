@@ -36,4 +36,4 @@ to set the transparency of the top bar.
 - [ ] **Read Parallel**: This property is read-only and is safe to read in unsynchronized threads. Attempting to write to it causes an error.
 
 > #### Methods
-[GetGuiObjectsAtPosition](https://create.roblox.com/docs/reference/engine/classes/BasePlayerGui#GetGuiObjectsAtPosition) <span style="backgroundColor: rgb(255, 255, 255)">(x : number, y : number) : Objects</span>
+[GetGuiObjectsAtPosition](https://create.roblox.com/docs/reference/engine/classes/BasePlayerGui#GetGuiObjectsAtPosition) (x : number, y : number) : Objects
