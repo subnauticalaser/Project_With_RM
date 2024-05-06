@@ -2,9 +2,9 @@
 
 ### CoreGui
 
-- [ ] **Not Creatable** | You can't create an instance of this class with the **Instance.new** constructor.
-- [ ] **Service** | This class is a top-level singleton. Retrive an instance of this class with the **GetService** function.
-- [ ] **Not Replicated** | Roblox does not replicate this member across its server-client boundary.
+- [ ] **Not Creatable**: You can't create an instance of this class with the **Instance.new** constructor.
+- [ ] **Service**: This class is a top-level singleton. Retrive an instance of this class with the **GetService** function.
+- [ ] **Not Replicated**: Roblox does not replicate this member across its server-client boundary.
 
 
 The CoreGui is a service used to store
@@ -27,3 +27,4 @@ to set the transparency of the top bar.
 [SelectionImageObject](https://create.roblox.com/docs/reference/engine/classes/CoreGui#SelectionImageObject) : GuiObject
 
 - [ ] **Read Parallel**: This property is read-only and is safe to read in unsynchronized threads. Attempting to write to it causes an error.
+- [ ] **Roblox Script Security**: This member is accessible only in CoreScripts.
