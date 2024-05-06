@@ -2,4 +2,4 @@
 
 ### CoreGui
 
-- [ ] Not Creatable
+- [ ] \(Optional) Open a followup issue
