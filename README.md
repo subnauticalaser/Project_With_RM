@@ -57,3 +57,10 @@ Returns a list of all [`GuiObject`](https://create.roblox.com/docs/reference/eng
 
 [UserGuiRenderingChanged: Event] : (enabled : bool, guiAdornee : Instance, faceId : NormalId, horizntalCurvature : float)
 - [ ] **Roblox Script Security**: This member is accessible only in CoreScripts.
+
+
+### CorePackages
+
+- [ ] **Not Creatable**: You can't create an instance of this class with the **Instance.new** constructor.
+- [ ] **Service**: This class is a top-level singleton. Retrive an instance of this class with the **GetService** function.
+- [ ] **Not Replicated**: Roblox does not replicate this member across its server-client boundary.
