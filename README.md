@@ -43,3 +43,6 @@ changed, this number is increased.
 [GetGuiObjectsAtPosition](https://create.roblox.com/docs/reference/engine/classes/BasePlayerGui#GetGuiObjectsAtPosition) (x : number, y : number) : Objects
 
 Returns a list of all [`GuiObject`](https://create.roblox.com/docs/reference/engine/classes/GuiObject) instances occupying the given point on the screen.
+
+[SetUserGuiRendering] (enabled : bool, guiAdornee : Instance, faceId : NormalId, horizntalCurvature : float) : null
+- [ ] **Roblox Script Security**: This member is accessible only in CoreScripts.
