@@ -31,3 +31,6 @@ to set the transparency of the top bar.
 
 [Version](https://create.roblox.com/docs/reference/engine/classes/CoreGui#Version) : number
 
+- [ ] **Read Only**: This member is read only. Attempting to write to this member causes an error.
+- [ ] **Not Replicated**: Roblox does not replicate this member across its server-client boundary.
+- [ ] **Read Parallel**: This property is read-only and is safe to read in unsynchronized threads. Attempting to write to it causes an error.
