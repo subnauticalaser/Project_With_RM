@@ -107,3 +107,10 @@ Determines whether [`TextChatService`](https://create.roblox.com/docs/reference/
 - [ ] **Plugin Security**: This member is accessible only through the command bar and plugins only. Attempting to access this member from scripts causes an error.
 
 Determines whether [`TextChatService`](https://create.roblox.com/docs/reference/engine/classes/TextChatService) should create default [`TextChatChannels`](https://create.roblox.com/docs/reference/engine/classes/TextChatChannel).
+
+> #### Methods
+
+[DisplayBubble](https://create.roblox.com/docs/reference/engine/classes/TextChatService#DisplayBubble) (partOrCharacter : Instance, message : string) : null
+
+Displays a chat bubble above the provided
+part or player character.
